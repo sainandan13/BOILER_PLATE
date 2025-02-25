@@ -9,7 +9,7 @@
   "scripts": {
     "build:prod": "nest build",
     "start:dev": "vite",
-    "build": "nest build",  
+    "build": "nest build",
     "nest:start": "nest start ./src/main.ts",
     "nest:start:dev": "nest start --watch",
     "nest:start:debug": "nest start --debug --watch",
@@ -135,6 +135,7 @@
     "release-it": "^18.1.2",
     "sass-embedded": "^1.83.4",
     "supertest": "^7.0.0",
+    "tailwindcss": "^4.0.8",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
